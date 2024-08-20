@@ -21,7 +21,7 @@ This is a collection of all the resources for the courses that me and my friends
 
 ## Course Logistics
 
-### BB101 - Bioogy
+### BB101 - Biology
 
 ### CH111
 
