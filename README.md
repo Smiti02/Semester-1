@@ -23,9 +23,9 @@ This is a collection of all the resources for the courses that me and my friends
 
 ### BB101 - Biology
 
-### CH111
+### CH111 - Chemistry
 
-### CH117
+### CH117 - Chemistry Lab
 
 ### GC101
 
