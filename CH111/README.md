@@ -1,4 +1,4 @@
-# CH111 - 
+# CH111 - Chemistry
 
 ## Logistics
 
